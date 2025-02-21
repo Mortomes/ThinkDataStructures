@@ -40,6 +40,6 @@ public class WikiPhilosophy {
      * @throws IOException
      */
     public static void testConjecture(String destination, String source, int limit) throws IOException {
-        // TODO: FILL THIS IN!
+
     }
 }
